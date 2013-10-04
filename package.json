@@ -1,0 +1,22 @@
+{
+  "name": "node-wechat-expression",
+  "version": "0.0.1",
+  "description": "微信内置表情代码包",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nswbmw/node-wechat-expression"
+  },
+  "keywords": [
+    "weixin",
+    "wechat",
+    "node-wechat",
+    "node-wechat-expression",
+    "微信"
+  ],
+  "author": "nswbmw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nswbmw/node-wechat-expression/issues"
+  }
+}
